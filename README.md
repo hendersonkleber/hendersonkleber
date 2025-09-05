@@ -9,9 +9,5 @@ Atualmente expandindo conhecimentos em **Java** e **Spring Boot** para atuar tam
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hendersonkleber&layout=compact&theme=radical)  
-
----
-
 ## 📫 Como me encontrar  
 [LinkedIn](https://www.linkedin.com/in/henderson-kleber-b39785198) | [E-mail](mailto:hendersonkleber@gmail.com)
